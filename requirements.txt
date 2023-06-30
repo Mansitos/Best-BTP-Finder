@@ -1,0 +1,4 @@
+ipykernel
+beautifulsoup4
+requests
+pandas
