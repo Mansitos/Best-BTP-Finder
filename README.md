@@ -1,8 +1,8 @@
 # **💸 Best BTP Finder**
 
-Questo notebook permette di effettuare lo scraping dal sito web [www.rendimentibtp.it](https://www.rendimentibtp.it/) e di filtrare secondo i propri criteri.
+Questo notebook permette effettua lo scraping dal sito web [www.rendimentibtp.it](https://www.rendimentibtp.it/) relativo ai BTP (obbligazioni governative dello stato Italiano) e di filtrare/esplorare i dati secondo i propri criteri.
 
-Eseguire tutto il notebook e poi eseguire con l'ultima cella per interagire con i dati reperiti.
+Eseguire tutto il notebook e poi interagire con i dati tramite l'ultima cella.
 
 ---
 
